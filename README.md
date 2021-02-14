@@ -1,1 +1,1 @@
-# training_Vue.js_product-list
+# Vue.js練習用に商品リストのコーディング<br>
